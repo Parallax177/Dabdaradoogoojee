@@ -1,11 +1,11 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Parallax's Mod"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "ParallaxMod"
 
 #your name
-author: "You"
+author: "Parallax177"
 
 #the fully qualified main class of the mod
 main: "example.ExampleJavaMod"
